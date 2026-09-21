@@ -6,11 +6,7 @@
 
 **Software Development • Full Stack • Java • Python • Machine Learning**
 
-<p>
-  <a href="https://github.com/Chaitra-456">
-    <img src="https://komarev.com/ghpvc/?username=Chaitra-456&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+
 
 </div>
 
