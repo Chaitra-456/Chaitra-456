@@ -1,90 +1,129 @@
+<div align="center">
+
 # Hi, I'm Chaitra A J 👋
 
-### Computer Science & Engineering Student | Software Development | Full-Stack | AI & Machine Learning
+### Computer Science & Engineering Student
 
-I'm a final-year Computer Science & Engineering student from Bengaluru, India, interested in building practical software solutions and continuously improving my problem-solving and development skills.
+**Software Development • Full Stack • Java • Python • Machine Learning**
 
-I enjoy working across **backend development, full-stack applications, and machine learning**, while currently strengthening my foundations in **Java, DSA, and Spring Boot**.
+<p>
+  <a href="https://github.com/Chaitra-456">
+    <img src="https://komarev.com/ghpvc/?username=Chaitra-456&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-* 🎓 Final-year B.E. Computer Science & Engineering student
-* 💻 Interested in Software Development, Full-Stack Development & Backend Development
-* 🌱 Currently learning Java, DSA, Spring Boot & Cloud Technologies
-* 🤖 Exploring Machine Learning and Python-based applications
-* 🔨 I enjoy turning ideas into working projects
+* 🎓 Final-year Computer Science & Engineering student
+* 💻 Interested in software, backend and full-stack development
+* 🌱 Currently strengthening Java, DSA and Spring Boot
+* 🤖 Exploring Python and Machine Learning
+* 🔨 I enjoy building practical projects and learning by doing
 * 📍 Bengaluru, India
 
 ---
 
-## Tech Stack
+## 🛠️ Languages & Tools
 
-### Languages
+<p align="center">
 
-`Java` `Python` `C` `SQL` `JavaScript`
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,spring,fastapi,mysql,mongodb,git,github,vscode&perline=7" />
 
-### Development
-
-`React.js` `Spring Boot` `FastAPI` `HTML` `CSS`
-
-### Databases
-
-`MySQL` `MongoDB`
-
-### Machine Learning
-
-`Scikit-learn` `Pandas` `NumPy` `TF-IDF` `LinearSVC`
-
-### Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Jupyter Notebook` `Render`
+</p>
 
 ---
 
-## Featured Projects
+## 📊 GitHub Statistics
 
-### AI-Powered Email Classifier
+<p align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chaitra-456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-456&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chaitra-456&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+
+<td width="100%">
+
+<h3 align="center">AI-Powered Email Classifier</h3>
+
+<p align="center">
+  <a href="https://ai-powered-email-classifier.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+  <a href="https://github.com/Chaitra-456/AI_Powered_Email_Classifier">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
 An ML-based web application that fetches Gmail emails and automatically classifies them into meaningful categories.
+</p>
 
-**Tech:** Python • FastAPI • React.js • Scikit-learn • TF-IDF • LinearSVC • Gmail IMAP
+<p align="center">
+<b>Python • FastAPI • React • Scikit-learn • TF-IDF • LinearSVC</b>
+</p>
 
-**Model Accuracy:** 96.11%
+<p align="center">
+<b>96.11% Test Accuracy</b>
+</p>
 
-[Live Demo](https://ai-powered-email-classifier.onrender.com) · [Source Code](https://github.com/Chaitra-456/AI_Powered_Email_Classifier)
+</td>
 
----
-
-## Currently Learning
-
-
-Java & DSA
-      ↓
-Spring Boot & Backend Development
-      ↓
-Full-Stack Development
-      ↓
-Cloud & DevOps
-```
-
-Alongside development, I'm continuing to explore **Python, Machine Learning, and practical software engineering**.
+</tr>
+</table>
 
 ---
 
-## GitHub Activity
+## 🎯 Currently Learning
 
-I use GitHub to document my learning, build projects, experiment with technologies, and continuously improve my development skills.
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Development-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF9900?style=for-the-badge" />
+
+</p>
 
 ---
 
-## Let's Connect
+## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/chaitra-aj/
-* GitHub: https://github.com/Chaitra-456
-* Email: chaitraaj953@gmail.com
+<p align="center">
+
+<a href="https://github.com/Chaitra-456">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 ---
+
+<div align="center">
 
 ### Learn • Build • Solve • Grow
+
+</div>
